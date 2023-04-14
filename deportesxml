@@ -33,6 +33,9 @@ acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD 720", DAZN LaLiga - 720 
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2 720", Eurosport 2 - 720
+acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 1080", Liga de Campeones - 1080
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
