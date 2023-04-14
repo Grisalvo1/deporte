@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar 1080" , La Liga Tv Bar - 1080
+acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
