@@ -209,3 +209,6 @@ acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2 720", Eurosport 2 - 720
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+
+#EXTINF:-1 tvg-id="Barça 720" tvg-name="Barça 720" tvg-logo="https://download.logo.wine/logo/Movistar%2B/Movistar%2B-Logo.wine.png" group-title="Movistar+", Barça 720
+acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
