@@ -209,3 +209,6 @@ acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2 720", Eurosport 2 - 720
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/toros.png" group-title="Toros" tvg-id="Toros 1 720", Toros 1 - 720
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/5677 
