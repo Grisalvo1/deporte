@@ -212,3 +212,6 @@ acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/toros.png" group-title="Toros" tvg-id="Toros 1 720", Toros 1 - 720
 acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLiga 2 HD 1080", DAZN LaLiga 2 - 1080 
+acestream://93d663e92a93845b11c9831885646fa39ba1ed66
